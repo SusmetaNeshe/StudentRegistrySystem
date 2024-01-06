@@ -1,0 +1,6 @@
+5, John, Doe, 3.40
+10, Janet, Doe, 2.80
+15, Sarit, Agrawal, 3.20
+20, Xiu, Li, 3.50
+30, Jennifer, Long, 2.40
+42, Saima, Rahman, 3.30
